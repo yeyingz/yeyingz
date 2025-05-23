@@ -1,11 +1,6 @@
-## Hi there 👋
-
-<!--
-**yeyingz/yeyingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🚀 Data Science Profile  
 
-¡Hola! 👋 Soy apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
+##¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
 
 ## 🛠 Habilidades  
 
@@ -31,5 +26,5 @@
 
 ## 📬 Contacto  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/tuperfil)  
-📧 [Email](mailto:tuemail@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/aurelio-gs)  
+📧 [Email](mailto:aureliogonzalezsalinas@gmail.com)  
