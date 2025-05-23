@@ -15,7 +15,7 @@
 ## 🎯 Proyectos Destacados  
 
 - 📊 **Análisis de tendencias del mercado** con series temporales  
-- 🏥 **Modelos de predicción médica** usando Machine Learning  
+- 🏥 **Modelos de predicción** usando Machine Learning  
 - 🛒 **Sistema de recomendación de productos** basado en datos  
 
 ## 📬 Contacto  
