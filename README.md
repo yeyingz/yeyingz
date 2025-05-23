@@ -1,6 +1,6 @@
 # 🚀 Data Science Profile  
 
-##¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
+## ¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
 
 ## 🛠 Habilidades  
 
