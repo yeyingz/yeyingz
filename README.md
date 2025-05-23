@@ -1,11 +1,8 @@
 # 🚀 Data Science Profile  
- 
-<img src="https://github.com/yeyingz/TU-REPO/blob/main/banner.png" alt="Banner Personalizado" width="100%">  
 
-<div align="center">
-  <img src="https://github.com/yeyingz/TU-REPO/blob/main/background.png" alt="Fondo" width="100%">
+<div align="center" style="background:linear-gradient(45deg, #FF5733, #FFC300, #DAF7A6); padding:10px;">
+  <img src="https://github.com/yeyingz/yeyingz/blob/main/aigenerated.jpg" alt="Fondo" width="100%">
 </div>
-
 
 ## ¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
 
@@ -33,8 +30,6 @@
 
 ![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeyingz&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyingz&layout=compact&theme=radical)  
-
-
 
 ## 📬 Contacto  
 
