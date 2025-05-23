@@ -1,4 +1,11 @@
 # 🚀 Data Science Profile  
+ 
+<img src="https://github.com/yeyingz/TU-REPO/blob/main/banner.png" alt="Banner Personalizado" width="100%">  
+
+<div align="center">
+  <img src="https://github.com/yeyingz/TU-REPO/blob/main/background.png" alt="Fondo" width="100%">
+</div>
+
 
 ## ¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
 
