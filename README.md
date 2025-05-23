@@ -16,7 +16,18 @@
 
 - 📊 **Análisis de tendencias del mercado** con series temporales  
 - 🏥 **Modelos de predicción** usando Machine Learning  
-- 🛒 **Sistema de recomendación de productos** basado en datos  
+- 🛒 **Sistema de recomendación de productos** basado en datos
+
+## 🌍 Mapa de Contribuciones  
+
+![Tu contribución](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeyingz&theme=github_dark)  
+
+## 📊 GitHub Stats  
+
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeyingz&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyingz&layout=compact&theme=radical)  
+
+
 
 ## 📬 Contacto  
 
