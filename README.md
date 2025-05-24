@@ -29,10 +29,8 @@ Siempre busco nuevos desafíos y oportunidades para aplicar el poder de los dato
 - 🤖 Modelado con `scikit-learn` 
 
 ## 🎯 Proyectos Destacados  
-
-- 📊 **Análisis de tendencias del mercado** con series temporales  
-- 🏥 **Modelos de predicción** usando Machine Learning  
-- 🛒 **Sistema de recomendación de productos** basado en datos
+- 📊 **Análisis de comparativo** como primer proyecto de visualización de gráficas  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yeyingz/proyecto_07)
+- 🏥 **Simulación** de anzamiento de una moneda al aire [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yeyingz/my_repository_ren)
 
 ## 🌍 Mapa de Contribuciones  
 
