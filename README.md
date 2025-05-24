@@ -1,15 +1,23 @@
-<div align="center" style="background-color:#6275d5; padding:20px; border-radius:10px;">
-  <h1 style="color:white;">🚀 Data Science Profile</h1>
-  <p style="color:white;">Bienvenido a mi perfil de GitHub ¡Explorando datos y creando modelos inteligentes!</p>
-</div>
-
 <div align="center" style="background:linear-gradient(45deg, #FF5733, #FFC300, #DAF7A6); padding:10px;">
-  <img src="https://github.com/yeyingz/yeyingz/blob/main/fondo_github.jpg" alt="Fondo" style="display:block; widht:100%; max-widht:100%; height:35vh; object-fit:cover;">
+  <img src="https://github.com/yeyingz/yeyingz/blob/main/fondo_github.jpg" alt="Fondo" widht="100%">
 </div>
 
-¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelio-gs)  [![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:aureliogonzalezsalinas@gmail.com)  
 
-## 🛠 Habilidades  
+¡Hola! 👋 Soy Aurelio.
+
+## 🚀 Sobre mí  
+
+🙂 Soy un apasionado 💗 por los datos y la ciencia que los transforma en conocimiento. Actualmente, estoy en una transición laboral hacia **Data Science**, explorando su potencial y perfeccionando mis habilidades.  
+
+📌 **Lo que estoy haciendo:**  
+- 💻 Practicando y perfeccionando lenguajes y herramientas clave para el desarrollo en Data Science.  
+- 📊 Desarrollando proyectos de **análisis de datos** y **modelos de predicción**, cada uno aportando nuevas perspectivas y aprendizajes.  
+- 🤝 Entusiasmado por la posibilidad de colaborar con profesionales y aportar soluciones innovadoras en equipos de Data Science.  
+
+Siempre busco nuevos desafíos y oportunidades para aplicar el poder de los datos en la toma de decisiones estratégicas ¡Construyamos juntos soluciones inteligentes! 🚀  
+
+## 🛠 Lenguajes y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
@@ -34,8 +42,3 @@
 
 ![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeyingz&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyingz&layout=compact&theme=radical)  
-
-## 📬 Contacto  
-
-🌐 [LinkedIn](https://www.linkedin.com/in/aurelio-gs)  
-📧 [Email](mailto:aureliogonzalezsalinas@gmail.com)  
