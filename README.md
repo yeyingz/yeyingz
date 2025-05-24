@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" style="background:linear-gradient(45deg, #FF5733, #FFC300, #DAF7A6); padding:10px;">
-  <img src="https://github.com/yeyingz/yeyingz/blob/main/aigenerated.jpg" alt="Fondo" style="display:block; widht:100%; max-widht:100%; height:35vh; object-fit:cover;">
+  <img src="https://github.com/yeyingz/yeyingz/blob/main/fondo_github.jpg" alt="Fondo" style="display:block; widht:100%; max-widht:100%; height:35vh; object-fit:cover;">
 </div>
 
 ¡Hola! 👋 Soy Aurelio, un apasionado por los datos y la ciencia detrás de ellos. Aquí tienes un poco sobre mí y mi conjunto de habilidades en Data Science.
