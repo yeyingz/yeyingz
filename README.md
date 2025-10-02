@@ -39,7 +39,7 @@ Mi principal diferenciador es la habilidad para transformar datos complejos en *
 
 ## 🎯 Proyectos Destacados 
 
-### **[Análisis Estratégico y Predicción de Abandono (Churn) en Clientes de Telecomunicaciones (ML)](https://github.com/yeyingz/churn-prediction)**
+### **Análisis Estratégico y Predicción de Abandono (Churn) en Clientes de Telecomunicaciones (ML)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yeyingz/churn-prediction)
 
 Este es mi proyecto principal de *Machine Learning*, donde aplico un **rigor metodológico** para diseñar un sistema predictivo robusto y estable.
 
