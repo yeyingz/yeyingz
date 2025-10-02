@@ -9,19 +9,14 @@ _Si valoras la precisión metodológica y el rigor ético en la Ciencia de Datos
 
 </div>
 
-<div align="center" style="background:linear-gradient(45deg, #FF5733, #FFC300, #DAF7A6); padding:10px;">
-  <img src="https://github.com/yeyingz/yeyingz/blob/main/fondo_github.jpg" alt="Fondo" widht="100%">
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aureliogonzalez-datascientist)  [![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:aureliogonzalezsalinas@gmail.com)  
 
 
 ---
 
 ## 🚀 Sobre mí 
-### 🧠 Perfil Profesional
-
 Soy un Profesional Multidisciplinar y Estratégico en la intersección de la **Ciencia de Datos** y el **Pensamiento Crítico Humanista**.
+### 🧠 Perfil Profesional
 
 Mi enfoque profesional se centra en la aplicación estratégica de la Ciencia de Datos. Utilizo la rigurosidad de la **Lógica Formal y la Ética** para abordar proyectos de Machine Learning (ML), garantizando que el diseño y el análisis sean **metodológica y éticamente responsables**.
 
@@ -29,18 +24,7 @@ Mi principal diferenciador es la habilidad para transformar datos complejos en *
 
 ---
 
-📌 **Lo que estoy haciendo:**  
-- 💻 Practicando y perfeccionando lenguajes y herramientas clave para el desarrollo en Data Science.  
-- 📊 Desarrollando proyectos de **análisis de datos** y **modelos de predicción**, cada uno aportando nuevas perspectivas y aprendizajes.  
-- 🤝 Entusiasmado por la posibilidad de colaborar con profesionales y aportar soluciones innovadoras en equipos de Data Science.  
-
-Siempre busco nuevos desafíos y oportunidades para aplicar el poder de los datos en la toma de decisiones estratégicas ¡Construyamos juntos soluciones inteligentes! 🚀 
-
----
-
-## 🛠 Lenguajes y herramientas
-
-### 🛠️ Hard Skills y Stack Tecnológico
+## 🛠️ Hard Skills y Stack Tecnológico
 
 | Categoría | Herramientas Clave |
 | :--- | :--- |
@@ -51,15 +35,7 @@ Siempre busco nuevos desafíos y oportunidades para aplicar el poder de los dato
 | **Metodología** | Lógica formal y Simbólica, Ética de la IA, Rigor Metodológico |
 | **Versiones** | **Git, GitHub** |
 
- 
-
 ---
-
-## 📊 Análisis de Datos  
-
-- 🔎 Exploración y limpieza de datos con `pandas`  
-- 📉 Visualización con `matplotlib` y `seaborn`  
-- 🤖 Modelado con `scikit-learn` 
 
 ## 🎯 Proyectos Destacados 
 
