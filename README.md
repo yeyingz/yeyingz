@@ -16,11 +16,13 @@ _Si valoras la precisión metodológica y el rigor ético en la Ciencia de Datos
 
 ## 🚀 Sobre mí 
 Soy un Profesional Multidisciplinar y Estratégico en la intersección de la **Ciencia de Datos** y el **Pensamiento Crítico Humanista**.
+
 ### 🧠 Perfil Profesional
+Data Scientist Junior certificado en Bootcamp TripleTen, con enfoque en MLOps y Ética. Conocimientos prácticos y orientado a proyectos en Python (Scikit-learn, Pandas, XGBoost), SQL Avanzado, y Despliegue en Cloud (AWS/GCP). 
 
-Mi enfoque profesional se centra en la aplicación estratégica de la Ciencia de Datos. Utilizo la rigurosidad de la **Lógica Formal y la Ética** para abordar proyectos de Machine Learning (ML), garantizando que el diseño y el análisis sean **metodológica y éticamente responsables**.
+Mi experiencia previa en Gestión de Proyectos Comunitarios y Éticos me ha proporcionado habilidades blandas robustas en Rigor Lógico y Análisis de Sistemas (Identificación de fallas estructurales) y Comunicación Compleja (Traducción de hallazgos a audiencias no técnicas). 
 
-Mi principal diferenciador es la habilidad para transformar datos complejos en **insights estratégicos**. Me especializo en el **análisis de problemas complejos**, la identificación de **defectos estructurales** y el diseño de soluciones que no solo resuelven el desafío, sino que son **óptimas, eficientes y sostenibles**.
+Busco aplicar esta combinación única de Despliegue de Modelos (MLOps) y pensamiento analítico para mitigar riesgos algorítmicos y asegurar el cumplimiento regulatorio (Compliance), transformando la necesidad de ética en una ventaja competitiva para la empresa.
 
 ---
 
