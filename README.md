@@ -15,10 +15,10 @@ _Si valoras la precisión metodológica y el rigor ético en la Ciencia de Datos
 ---
 
 ## 🚀 Sobre mí 
-Soy un Profesional Multidisciplinar y Estratégico en la intersección de la **Ciencia de Datos** y el **Pensamiento Crítico Humanista**.
+Data Scientist Junior certificado en Bootcamp TripleTen, con enfoque en MLOps y Ética. 
 
 ### 🧠 Perfil Profesional
-Data Scientist Junior certificado en Bootcamp TripleTen, con enfoque en MLOps y Ética. Conocimientos prácticos y orientado a proyectos en Python (Scikit-learn, Pandas, XGBoost), SQL Avanzado, y Despliegue en Cloud (AWS/GCP). 
+Conocimientos prácticos y orientado a proyectos en Python (Scikit-learn, Pandas, XGBoost), SQL Avanzado, y Despliegue en Cloud (AWS/GCP). 
 
 Mi experiencia previa en Gestión de Proyectos Comunitarios y Éticos me ha proporcionado habilidades blandas robustas en Rigor Lógico y Análisis de Sistemas (Identificación de fallas estructurales) y Comunicación Compleja (Traducción de hallazgos a audiencias no técnicas). 
 
