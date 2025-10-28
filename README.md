@@ -15,14 +15,15 @@ _Si valoras la precisión metodológica y el rigor ético en la Ciencia de Datos
 ---
 
 ## 🚀 Sobre mí 
-Data Scientist Junior certificado en Bootcamp TripleTen, con enfoque en MLOps y Ética. 
+**Data Scientist Junior** con fuerte enfoque en Análisis Predictivo y Generación de Valor de Negocio.
 
 ### 🧠 Perfil Profesional
-Conocimientos prácticos y orientado a proyectos en Python (Scikit-learn, Pandas, XGBoost), SQL Avanzado, y Despliegue en Cloud (AWS/GCP). 
 
-Mi experiencia previa en Gestión de Proyectos Comunitarios y Éticos me ha proporcionado habilidades blandas robustas en Rigor Lógico y Análisis de Sistemas (Identificación de fallas estructurales) y Comunicación Compleja (Traducción de hallazgos a audiencias no técnicas). 
+Conocimientos prácticos y orientado a proyectos en Python (Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn) y SQL Avanzado (PostgreSQL, MySQL). Experiencia en la creación de pipelines de análisis, feature engineering y el desarrollo de modelos predictivos de alta precisión. Manejo de metodologías Agile/Scrum para la entrega eficiente de proyectos de datos.
 
-Busco aplicar esta combinación única de Despliegue de Modelos (MLOps) y pensamiento analítico para mitigar riesgos algorítmicos y asegurar el cumplimiento regulatorio (Compliance), transformando la necesidad de ética en una ventaja competitiva para la empresa.
+Mi background en Rigor Lógico y Análisis de Sistemas se traduce en la habilidad de identificar ineficiencias estructurales en el negocio y transformar datos complejos en insights estratégicos y soluciones accionables que guían la toma de decisiones.
+
+Busco unirme a un equipo de Data Science para aplicar mis habilidades en el desarrollo de modelos y la analítica avanzada que impulse la optimización de procesos y la rentabilidad de la empresa.
 
 ---
 
